@@ -1,5 +1,5 @@
 # Mobile-Robot-navigation
- Autonomous Navigation of mobile robot using A star algorithm
+ Autonomous path-finding and Navigation of mobile robot using A star algorithm
  
  Hello,
 
