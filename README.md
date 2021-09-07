@@ -8,4 +8,9 @@ This is a simple python implementation of the A* algorithm for pathfinding on a 
 Language : Python 
 Grid size : 5x5 
 
+**Output**
+
+Estimated path of Robot :  [(0, 0), (0, 1), (1, 1), (1, 2), (1, 3), (2, 3), (3, 3), (3, 4), (4, 4)]
+
+Path of the Robot :  [(0, 0), (0, 1), (1, 1), (1, 2), (1, 3), (2, 3), (3, 3), (3, 4), (4, 4)]
 
